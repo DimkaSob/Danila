@@ -78,20 +78,20 @@ body {
 .assets {
   color: #fff;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 7px;
   margin-bottom: 0em;
 }
 
 .item {
-  width: 700px;
-  height: 1479px;
   display: inline-block;
   border-radius: 20px;
+  width: 300px;
+  height: 480px;
 }
 
 .metka {
   display: block;
-  font-size: 50px;
+  font-size: 25px;
   font-weight: 500;
   font-family: "Open Sans", sans-serif;
   color: rgb(255, 251, 0);
@@ -100,13 +100,15 @@ body {
 }
 
 .round {
+  width: 20px;
+  height: 480px;
   border-radius: 20px;
   box-shadow: 0px 0px 19px #24646d;
 }
 
 .metka-glav {
   display: inline-block;
-  font-size: 70px;
+  font-size: 35px;
   font-weight: 700;
   font-family: "Open Sans", sans-serif;
   color: rgb(255, 0, 0);
